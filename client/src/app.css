@@ -1,0 +1,12 @@
+.mainBox {
+  overflow-y: 'auto';
+  overflow-x: 'hidden';
+  scroll-behavior: 'smooth';
+  height: 100%;
+  min-height: 78vh;
+  margin: 10px 0
+}
+
+#root {
+  height: auto;
+}
